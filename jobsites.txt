@@ -1,4 +1,4 @@
-(\.|^)www\.workabroad\.ph$
+www.workabroad.ph
 jobstreet.com.ph
 jobsdb.com
 cavitejobs.net
