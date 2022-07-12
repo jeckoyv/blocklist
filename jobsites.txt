@@ -1,7 +1,7 @@
-^[a-z0-9]\.workabroad\.ph$
+(\.|^)workabroad\.ph$
 ^[a-z0-9]\.jobstreet\.com\.ph$
 ^[a-z0-9]\.jobsdb\.ph$
-^[a-z0-9]\.cavitejobs\.net$
+(\.|^)cavitejobs\.net$
 ^[a-z0-9]\.kalibrr\.com$
 ^[a-z0-9]\.indeed\.com$
 ^[a-z0-9]\.bossjob\.ph$
